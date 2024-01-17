@@ -3,7 +3,7 @@ apply plugin: 'maven-publish'
 
 repositories {
     mavenCentral()
-    google()
+    //google()
     maven { url "https://jitpack.io" }
 }
 
